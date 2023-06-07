@@ -7,6 +7,7 @@
 	text-align:center;
 	background-color:#2ecc71;
 	padding:8px;
+	border-radius:5px;
 }
 .book-library{
 	position:relative;
@@ -28,7 +29,7 @@ img{
 	background-color:grey;
 	margin-top:80px;
 	margin-bottom:4px;
-	
+	border-radius:5px;
 }
 .title{
 	text-transform:uppercase;
